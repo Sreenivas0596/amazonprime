@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.prime-bg-container {
+  background-size: cover;
+  max-height: 1200px;
+}
+
+.prime-logo {
+  max-height: 300px;
+  width: 100%;
+}
